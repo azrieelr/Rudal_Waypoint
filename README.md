@@ -23,6 +23,8 @@ This repository comprehensively overviews the guidance system's features, instal
 Follow these steps to get started with the Rudal Waypoint-to-Target Guidance System:
 
 # Installation
-- Python 3.6 or higher
-- Rudal Guidance System Library
-- Missile hardware compatible with the guidance system
+- MATLAB 2016a or higher.
+- Download all files and extract them.
+- Open MATLAB script and Simulink.
+- Run files both C705_CFD_parameter and C705_FLATEARTH_init2.
+- Run file C705_FLATEARTH_sim
